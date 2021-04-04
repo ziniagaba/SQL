@@ -1,2 +1,2 @@
-# SQL-
-SQL queries to retrieve product and order details
+# SQL
+SQL Academic Project- Queries to retrieve product and order details from a retail store database
